@@ -1,0 +1,4 @@
+/home/liangjiaqi/CLionProjects/learn_cmake/demo8/_CPack_Packages/Linux/TZ/demo8-1.0.1-Linux/bin/libMathFunctions.a
+/home/liangjiaqi/CLionProjects/learn_cmake/demo8/_CPack_Packages/Linux/TZ/demo8-1.0.1-Linux/include/MathFunctions.h
+/home/liangjiaqi/CLionProjects/learn_cmake/demo8/_CPack_Packages/Linux/TZ/demo8-1.0.1-Linux/bin/Demo
+/home/liangjiaqi/CLionProjects/learn_cmake/demo8/_CPack_Packages/Linux/TZ/demo8-1.0.1-Linux/include/config.h

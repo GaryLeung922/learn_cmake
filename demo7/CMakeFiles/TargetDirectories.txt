@@ -1,0 +1,16 @@
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/CMakeFiles/install/strip.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/CMakeFiles/install/local.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/CMakeFiles/test.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/CMakeFiles/Demo.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/CMakeFiles/list_install_components.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/CMakeFiles/edit_cache.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/CMakeFiles/rebuild_cache.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/CMakeFiles/install.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/math/CMakeFiles/install/strip.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/math/CMakeFiles/install/local.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/math/CMakeFiles/test.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/math/CMakeFiles/list_install_components.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/math/CMakeFiles/MathFunctions.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/math/CMakeFiles/edit_cache.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/math/CMakeFiles/rebuild_cache.dir
+/home/liangjiaqi/CLionProjects/learn_cmake/demo7/math/CMakeFiles/install.dir

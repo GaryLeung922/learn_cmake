@@ -1,0 +1,95 @@
+Start testing: Oct 01 09:46 CST
+----------------------------------------------------------
+1/5 Testing: test_run
+1/5 Test: test_run
+Command: "/home/liangjiaqi/CLionProjects/learn_cmake/demo5/Demo" "5" "2"
+Directory: /home/liangjiaqi/CLionProjects/learn_cmake/demo5
+"test_run" start time: Oct 01 09:46 CST
+Output:
+----------------------------------------------------------
+Now we use the standard library. 
+5 ^ 2 is 25
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_run" end time: Oct 01 09:46 CST
+"test_run" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: test_usage
+2/5 Test: test_usage
+Command: "/home/liangjiaqi/CLionProjects/learn_cmake/demo5/Demo"
+Directory: /home/liangjiaqi/CLionProjects/learn_cmake/demo5
+"test_usage" start time: Oct 01 09:46 CST
+Output:
+----------------------------------------------------------
+Usage: /home/liangjiaqi/CLionProjects/learn_cmake/demo5/Demo base exponent 
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[Usage: .* base exponent
+]
+"test_usage" end time: Oct 01 09:46 CST
+"test_usage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: test_5_2
+3/5 Test: test_5_2
+Command: "/home/liangjiaqi/CLionProjects/learn_cmake/demo5/Demo" "5" "2"
+Directory: /home/liangjiaqi/CLionProjects/learn_cmake/demo5
+"test_5_2" start time: Oct 01 09:46 CST
+Output:
+----------------------------------------------------------
+Now we use the standard library. 
+5 ^ 2 is 25
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[is 25
+]
+"test_5_2" end time: Oct 01 09:46 CST
+"test_5_2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: test_10_5
+4/5 Test: test_10_5
+Command: "/home/liangjiaqi/CLionProjects/learn_cmake/demo5/Demo" "10" "5"
+Directory: /home/liangjiaqi/CLionProjects/learn_cmake/demo5
+"test_10_5" start time: Oct 01 09:46 CST
+Output:
+----------------------------------------------------------
+Now we use the standard library. 
+10 ^ 5 is 100000
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[is 100000
+]
+"test_10_5" end time: Oct 01 09:46 CST
+"test_10_5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: test_2_10
+5/5 Test: test_2_10
+Command: "/home/liangjiaqi/CLionProjects/learn_cmake/demo5/Demo" "2" "10"
+Directory: /home/liangjiaqi/CLionProjects/learn_cmake/demo5
+"test_2_10" start time: Oct 01 09:46 CST
+Output:
+----------------------------------------------------------
+Now we use the standard library. 
+2 ^ 10 is 1024
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[is 1024
+]
+"test_2_10" end time: Oct 01 09:46 CST
+"test_2_10" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 01 09:46 CST
